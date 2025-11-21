@@ -1,4 +1,4 @@
-This project is an end-to-end retail loss prevention analysis, built entirely from scratch using real recovery log data. I completed this project independently at home to demonstrate my skills in Excel analytics, SQL foundations, dashboard design, and data storytelling—all applied to a realistic retail operations scenario.
+This project is an end-to-end retail loss prevention analysis, built entirely from scratch using real recovery log data. I completed this project independently at home to demonstrate my skills in Excel analytics, dashboard design, and data storytelling—all applied to a realistic retail operations scenario.
 
 The dashboard reveals recovery trends, cashier performance, behavioral patterns, and loss-prevention insights that would normally require manual counting and tedious review.
 
